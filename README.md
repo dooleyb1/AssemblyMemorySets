@@ -3,9 +3,9 @@ ARM Assembly Language program which uses memory arrays to perform basic set oper
 
 The operations available are:
 
-* Closure
-* Symmetric Difference
-* Closure
+* **Closure**
+* **Symmetric Difference**
+* **Closure**
 
 ## Closure
 
@@ -27,8 +27,8 @@ The program stores 1 in R0 if the string is an Anagram and zero otherwise.
 
 ## Assembly Files
 
-* **[Closure.s](https://github.com/dooleyb1/AssemblyMemorySets/closure/Closure.s)** - Program to determine whether or a set is closed.
+* **[Closure.s](https://github.com/dooleyb1/AssemblyMemorySets/blob/master/closure/Closure.s)** - Program to determine whether or a set is closed.
 
-* **[SymmDiff.s](https://github.com/dooleyb1/AssemblyMemorySets/symmetric_difference/SymmDiff.s)** - Program to determine the Symmetric Difference of two sets A and B.
+* **[SymmDiff.s](https://github.com/dooleyb1/AssemblyMemorySets/blob/master/symmetric_difference/Symmdiff.s)** - Program to determine the Symmetric Difference of two sets A and B.
 
-* **[Anagram.s](https://github.com/dooleyb1/AssemblyMemorySets/anagram/Anagram.s)** - Program to determine whether or not two words are anagrams of each other.
+* **[Anagram.s](https://github.com/dooleyb1/AssemblyMemorySets/blob/master/anagram/Anagram.s)** - Program to determine whether or not two words are anagrams of each other.
